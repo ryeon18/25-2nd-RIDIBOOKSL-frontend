@@ -47,5 +47,5 @@
 
 **구현 영상**
 
-![ezgif com-gif-maker11111](https://user-images.githubusercontent.com/62207127/145957666-794d1e38-eed2-4ff1-be61-1999c912063d.gif)
+![구현 영상](https://user-images.githubusercontent.com/62207127/145957666-794d1e38-eed2-4ff1-be61-1999c912063d.gif)
 
