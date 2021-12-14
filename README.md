@@ -45,6 +45,7 @@
 **푸터 구현**
 1. `onClick`으로 사업자정보가 나오도록 &&연산자를 통해 구현
 
+**구현 영상**
 
 ![ezgif com-gif-maker11111](https://user-images.githubusercontent.com/62207127/145957666-794d1e38-eed2-4ff1-be61-1999c912063d.gif)
 
